@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*  __Skills__
+ * __Proficient in Microsoft Office Product including Word, Excel, and PowerPoint__
+ * Unity
+ * C#
