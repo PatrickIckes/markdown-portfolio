@@ -4,7 +4,7 @@
   * Parks and Rec
   * The Good Place
   * Firefly
-  *Comedians in Cars Getting Coffee
+  * Comedians in Cars Getting Coffee
 * Favorite Games
   * Destiny
   * Warframe
